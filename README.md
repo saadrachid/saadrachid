@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saadrachid
-- 👀 I’m interested in data science and Nachine learning / deep learning 
+- 👀 I’m interested in data science and artificial intelligence
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on projects relevent to my field of studies
 - 📫 How to reach me s.rachid1704@gmail.com
